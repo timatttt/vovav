@@ -1,0 +1,62 @@
+#heder {
+  outline: 2px solid silver;
+  background-color: lightgreen;
+  text-align: center;
+  position: relative;
+}
+#top-con {
+  outline: 2px solid silver;
+  background-color: lightgreen;
+  width: 680px;
+  margin: 0px auto;
+  text-align: center;
+}
+#wap {
+  margin: 26px auto;
+  width: 1000px;
+}
+#left-con {
+  float: left;
+  width: 150px;
+  height: 400px;
+  outline: 2px solid silver;
+  background-color: lightgreen;
+  text-align: center;
+}
+#right-con {
+  float: right;
+  width: 150px;
+  height: 400px;
+  outline: 2px solid silver;
+  background-color: lightgreen;
+  margin: 0px 0px 300px 0px;
+  text-align: center;
+}
+iframe {
+  width: 670px;
+  height: 330px;
+  padding: 0px 0px 0px 15px;
+}
+#button-con {
+  outline: 2px solid silver;
+  background-color: lightgreen;
+  text-align: center;
+  padding-left: 130px;
+  margin: 0px 0px 0px 0px;
+}
+body {
+  background-color: rgb(234, 218, 248);
+  padding: 0px;
+  margin: 0px;
+  height: 1000px;
+}
+#fix {
+  position: fixed;
+  top: 190px;
+  left: 0px;
+}
+#img-hed {
+  position: absolute;
+  top: -13px;
+  left: 650px;
+}
